@@ -3,7 +3,7 @@ pull-down menu for CanadianTire.ca
 
 Always, when I'm looking for something on CanadianTire.ca, I feel like a soldier in a pillbox with a small overview.
 
-The menu on top take 171px or 28.6% of full website height on my laptop screen. 
+The top menu takes 171px or 28.6% of full website height on my laptop screen. 
 This script making the menu dropping up. And it geves you more place for main content.
 
 Writed for Google Chrome browser.
